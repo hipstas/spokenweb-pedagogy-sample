@@ -4,6 +4,10 @@
 
 layout: home
 ---
+This pedagogical contribution is targeted towards first-year writing instructors, but may be adapted by any educator seeking methods of teaching students how to critically engage multimodal texts and audiovisual materials. We offer educators a sample AVAnnotate project and documentation as well as a lesson plan for incorporating AVAnnotate into the first-year writing classroom.
+
+---
+
 First, the basics of the software—creating IIIF manifests, navigating GitHub, publishing and sharing annotations using Jekyll—will be reviewed alongside innovative AVAnnotate projects that have been developed over the past year and are applicable to researchers, teachers, librarians and archivists, and students in DH. This includes a bilingual digital exhibit developed by PhD candidate Vera Burrows, entitled “Radio Venceremos, the Rebel’s Radio Station,” which features recordings from Radio Venceremos (“Radio We Will Overcome”), a popular clandestine radio station from the mountains of Morazan, El Salvador, during the eleven year Salvadoran Civil War (1981-1992). In this way, AVAnnotate is a powerful tool for a variety of scholars studying digital humanities topics that use audiovisual artifacts and require increased accessibility and discoverability.
 
 
