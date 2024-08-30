@@ -1,0 +1,9 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://example.com/collection.json",
+    "type": "Collection",
+    "label": { "en": [ "SpokenWeb Pedagogy Sample Annotation Project" ] },
+    "summary": { "en": [ "AVAnnotate–an application and workflow designed by Dr. Tanya Clement and Brumfield Labs, and Performant Solutions–allows users to build digital exhibits of annotated audiovisual artifacts." ] },
+    "items": [
+    ]
+}
